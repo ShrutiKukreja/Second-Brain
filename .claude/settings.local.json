@@ -18,7 +18,11 @@
       "mcp__composio__COMPOSIO_REMOTE_BASH_TOOL",
       "Write",
       "Edit",
-      "Bash"
+      "Bash",
+      "WebFetch(domain:apify.com)",
+      "Skill(schedule)",
+      "Skill(schedule:*)",
+      "mcp__mcp-registry__list_connectors"
     ]
   }
 }

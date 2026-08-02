@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "title": "Agentic AI Institute",
+    "handle": "@maheshaipmcommunity",
+    "note": "This is the current name/handle of the channel formerly known as MaheshAIPMCommunity",
+    "channel_id": "UCPnDl-FpDXdPWKVRRV5V7og",
+    "subscriber_count": 7170,
+    "video_count": 233,
+    "view_count": 154998,
+    "published_at": "2024-04-09T20:19:47.612944Z"
+  },
+  "videos": [
+    { "title": "From Task Execution to Problem Solving: Technical PMs & Engineers in 2026 | Mahesh & Gaurav Sen", "video_id": "ojDvD5kYKzs", "published_at": "2026-07-30T14:00:46Z", "view_count": null, "like_count": null },
+    { "title": "How I'm Prepping 10,000+ PMs for AI Interviews (Free 3-Session Plan)", "video_id": "DcA1dCQA6Yk", "published_at": "2026-06-22T16:00:45Z", "view_count": null, "like_count": null },
+    { "title": "How to Crack AI PM Interviews in 2026 | 21-Day Prep Plan + What Interviewers Actually Test", "video_id": "EB8fAldxmaQ", "published_at": "2026-06-15T19:27:15Z", "view_count": null, "like_count": null },
+    { "title": "AI Data Strategy for Product Managers: The Missing Skill in Agentic AI", "video_id": "daxme3vLlEY", "published_at": "2026-05-31T20:57:14Z", "view_count": null, "like_count": null },
+    { "title": "Exclusive Invite: Free Sunday Masterclass | Mahesh Yadav", "video_id": "ckpoezyIFYk", "published_at": "2026-05-10T09:04:56Z", "view_count": null, "like_count": null },
+    { "title": "What Changed in AI After Dec 2025? The Shift That Killed Entire Startups", "video_id": "uEYoD0IXIcQ", "published_at": "2026-04-27T17:15:52Z", "view_count": null, "like_count": null },
+    { "title": "Mahesh Left $1.3M at Google for This (The Future of PMs)", "video_id": "Fbq7wBVnKNY", "published_at": "2026-04-21T19:56:30Z", "view_count": null, "like_count": null },
+    { "title": "Why 2026 Is the Year of AI Builders (Agents, Orchestration & 15-Hour Tasks Explained)", "video_id": "w_pAU0jur_4", "published_at": "2026-04-21T09:51:23Z", "view_count": null, "like_count": null },
+    { "title": "3 Weeks to Your First AI PM Role: A No-BS Roadmap | Real Hiring Signals from Big Tech", "video_id": "uGCMX-1RXS8", "published_at": "2026-04-06T20:53:50Z", "view_count": null, "like_count": null },
+    { "title": "\"You Expanded Our Vision\" — Student Testimonial: Special thanks to Mentors", "video_id": "rwjqky-Adrk", "published_at": "2026-04-05T06:15:11Z", "view_count": null, "like_count": null },
+    { "title": "Knowing AI Basics Won't Get You the Job Anymore", "video_id": "9cjswihC8uE", "published_at": "2026-04-02T19:45:58Z", "view_count": null, "like_count": null },
+    { "title": "Testimonial from Cohort 8: Minaxi's Journey with the Course", "video_id": "rxmdtKyEJFs", "published_at": "2026-04-01T20:37:31Z", "view_count": null, "like_count": null },
+    { "title": "Mahesh's Workshop for AI for Tech & PM Leaders | Economic Times", "video_id": "gewz2ejH5A8", "published_at": "2026-03-27T12:29:53Z", "view_count": null, "like_count": null },
+    { "title": "The AI Stack Every AI PM Needs to Understand in 2026", "video_id": "TFvx5JIfaPw", "published_at": "2026-03-23T15:14:57Z", "view_count": null, "like_count": null },
+    { "title": "Claude Code Just Changed Everything (Agents Can Now Access Your Files)", "video_id": "ItOFgbYJSsk", "published_at": "2026-03-18T15:07:53Z", "view_count": null, "like_count": null }
+  ],
+  "fetch_meta": {
+    "fetched_at": "2026-08-02",
+    "source": "YouTube Data API v3 via Composio",
+    "limitation": "The videos.list endpoint (used for per-video view_count/like_count) returned 'quotaExceeded' (403) at fetch time, so those fields are null for all 15 videos. Channel stats and video titles/IDs/publish dates were retrieved successfully via channels.list and search.list, which were not quota-blocked. Re-run once the daily YouTube API quota resets to backfill view_count/like_count."
+  }
+}

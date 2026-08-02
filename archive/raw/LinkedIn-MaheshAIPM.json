@@ -1,0 +1,96 @@
+{
+  "company": {
+    "name": "Agentic AI Institute",
+    "note": "This is the current LinkedIn company page name/handle for what is referred to as the 'Mahesh AI PM Community' page (universalName: mahesh-ai-pm-community)",
+    "linkedin_url": "https://www.linkedin.com/company/mahesh-ai-pm-community/",
+    "follower_count": 8455,
+    "follower_count_text": "8,455 followers"
+  },
+  "posts": [
+    {
+      "post_text": "I have seen this pattern before with mobile, cloud, and SaaS. During every major technology shift, industry debates often center around macro disruption, while the real window to build sustainable value quietly opens and closes.\n\nRecently, S&P Global published a comprehensive report analyzing AI adoption and labor dynamics. The data provides a grounded look at where enterprise AI actually stands today. \n\nHere are a few key takeaways from the numbers: \n• Productivity gains remain the primary driver: 59% of enterprises prioritize employee productivity, while process efficiency stands at 64%. \n• Headcount reduction is rarely the main goal: Only 24% of organizations cite workforce reduction as a primary objective. \n• The net employment impact is subtle: The global forecast shows a modest net impact of -2 percentage points for the coming year, driven more by changing hiring velocity and task reallocation than outright displacement. \n\nThe report also reveals a clear split based on organization size: \n• Large Enterprises (-13 net impact): Larger organizations are actively restructuring around formal AI strategies and dedicated teams. \n• Small & Medium Businesses (+2 to +3 net impact): Smaller teams are using AI tools as leverage to expand their output and capacity without needing massive headcount additions. \n\nHowever, the metric that every AI engineer and Product Manager should pay closest attention to is this:\n\nOnly 37% of AI initiatives launched in the past year are currently live and delivering value. Furthermore, only 46% are on track to achieve positive ROI within 12 months. \n\nMany projects encounter deployment bottlenecks—ranging from data privacy and accuracy concerns to acute technical skill shortages in AI development, software engineering, and governance.\n\nThis gap between capital investment and deployed value is currently the single largest opportunity in technology. Organizations do not just need more models or experiments; they need builders and leaders who can systematically design, evaluate, and ship production-grade AI systems that solve real business problems. \n\nThe opportunity to close this gap is open right now.\n\nAre you currently focused on moving AI projects into production and driving ROI, or are you still working through early-stage evaluation? I would love to read your perspective in the comments.\n\n(Link to full S&P Global report in comments)",
+      "published_date": "2026-07-31T22:59:43.656Z",
+      "reaction_count": 2,
+      "comment_count": 1,
+      "repost_count": 0,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_i-have-seen-this-pattern-before-with-mobile-activity-7489092462444032000-N1el"
+    },
+    {
+      "post_text": "Two things separate candidates who know how to answer an AI PM interview question from the ones who actually land the offer.\n\nThe first is practice. The second is hearing it from someone who was on the other side of the table making the hiring decisions.\n\nEvery cohort, I bring in top-tier practitioners who have run these loops at MAANG. When they share their perspective, the framing shifts. The answers get sharper. Our alumni consistently say these guest sessions are where it clicks\n\nThis upcoming cohort is no different. Except the guests are.\nBrian Kemler built AI products at Google and Meta. He's been in more hiring rooms than most people have had interviews, and he knows exactly what separates the candidates who get offers from the ones who don't.\nCharu Agrawal founder of RoleStack.ai - she's solving the job search problem from the inside using AI - automating applications, outreach, and getting in front of hiring managers. \n\n3 things specifically they'll cover:\n→ How hiring managers at Google and Meta actually evaluate AI PM candidates - the signals that get people through and the ones that get people cut\n→ What AI product sense looks like under pressure in a real interview room, and how to answer it without reaching for a framework\n→ How to use AI to run your job search - applications, outreach, scheduling - so your prep time goes toward prep, not admin\n\nAnd we're not stopping there - alums who've landed AI PM roles will also be joining to share how they navigated today's hiring market. Stay tuned for that!\n\nThese sessions are part of the Claude Bootcamp: Build Production-Ready AI Products & Crack AI PM Interviews, starting July 4th. \n\n👇 Link to the full curriculum and enrollment in the comments below. 🔗",
+      "published_date": "2026-07-01T14:15:34.810Z",
+      "reaction_count": 15,
+      "comment_count": 1,
+      "repost_count": 2,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_two-things-separate-candidates-who-know-how-activity-7478088920455360512-dJSW"
+    },
+    {
+      "post_text": "This Friday MAHESH YADAV is going into a 3 hour deep dive with Gaurav Sen in Bengaluru and streaming it online for everyone who can't make it in person.\n\nWe're calling it 𝐔𝐩𝐬𝐤𝐢𝐥𝐥 𝐭𝐨 𝟑 𝐞𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐒𝐤𝐢𝐥𝐥𝐬 - 𝟐𝟎𝟐𝟔 𝐇𝟐 𝐄𝐝𝐢𝐭𝐢𝐨𝐧\nThree hours.\n\nHere's what we're actually covering.\n4 things specifically:\n→ How to build a Company Brain that makes your agentic AI system work - why agent ROI cycles are long and how to cut them by building an enterprise-grade second brain powered by Snowflake\n→ Agentic AI system design from first principles, inspired by OpenClaw, we'll walk through how channels, model routing, and skills come together to build the most capable and flexible AI agents of the next wave\n→ How to position yourself for H2 2026 AI jobs, what hiring actually looks like right now, which skills employers are paying for, and how to move from where you are to where the market is going\n→ One hour of live Q&A with me and Gaurav - bring your hardest questions on agents, system design, careers, and what's coming next\n\nGaurav built InterviewReady and has 480K subscribers on system design. I've spent 20 years building AI products at Google, Meta, AWS, and Microsoft. \n\nBetween us we'll cover the full picture - product, systems, and careers.\nIf you're in Bengaluru, come in person. \nThe Park, M G Road, from 2 PM IST. If you're not, join online - same session, same content.\nFriday Jul 17 | 2 PM IST in person · 8:30 AM UTC online | Free\n\nRegister here: https://lnkd.in/daKPsjzs\n\nSee you Friday.\n#AgenticAIInstitute #InterviewReady #AIPM #AgenticAI",
+      "published_date": "2026-07-14T12:53:31.064Z",
+      "reaction_count": 33,
+      "comment_count": 3,
+      "repost_count": 2,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_agenticaiinstitute-interviewready-aipm-activity-7482779311020830720-LX2O"
+    },
+    {
+      "post_text": "Inviting you to our next series -  𝐁𝐮𝐢𝐥𝐝 𝐚𝐧𝐝 𝐒𝐡𝐢𝐩 𝐰𝐢𝐭𝐡 𝐂𝐥𝐚𝐮𝐝𝐞 𝐂𝐨𝐝𝐞: 𝐓𝐡𝐞 𝐁𝐮𝐢𝐥𝐝𝐞𝐫 𝐏𝐚𝐭𝐡- a free 3-session series where you'll write implementation specs that control Claude Code, build a data pipeline from ingestion to dashboard, and deploy AI agents on Azure. \n\n3 sessions, 3 portfolio projects: \nFull series Link: https://lnkd.in/dqfGgeyg\nSession 1: 𝐒𝐩𝐞𝐜-𝐃𝐫𝐢𝐯𝐞𝐧 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐂𝐥𝐚𝐮𝐝𝐞 𝐟𝐨𝐫 𝐀𝐈 𝐏𝐌𝐬 & 𝐆𝐫𝐨𝐰𝐭𝐡 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 - https://lnkd.in/d-hCAhpk\nSession 2: 𝐁𝐮𝐢𝐥𝐝 𝐃𝐚𝐭𝐚 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬 𝐰𝐢𝐭𝐡 𝐂𝐥𝐚𝐮𝐝𝐞 𝐂𝐨𝐝𝐞 - https://lnkd.in/dk-k6-QJ\nSession 3: 𝐃𝐞𝐩𝐥𝐨𝐲 𝐀𝐈 𝐀𝐩𝐩𝐬 𝐔𝐬𝐢𝐧𝐠 𝐀𝐳𝐮𝐫𝐞 𝐀𝐈 𝐅𝐨𝐮𝐧𝐝𝐫𝐲 & 𝐂𝐥𝐚𝐮𝐝𝐞 𝐂𝐨𝐝𝐞 - https://lnkd.in/dYK-y2c3\n\nEvery session is free. Recording goes to everyone who registers. Do attend to get access to Mahesh's curated resources.\n\nSee you this Friday.\n#AgenticAI #AIPM #Claude #ProductManagement",
+      "published_date": "2026-06-30T20:16:25.585Z",
+      "reaction_count": 9,
+      "comment_count": 0,
+      "repost_count": 0,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_agenticai-aipm-claude-activity-7477817342522155008-gTCG"
+    },
+    {
+      "post_text": "𝟐𝟒 𝐇𝐎𝐔𝐑𝐒 𝐭𝐨 𝐆𝐎!\nLast week we covered spec-based building -  how to go from idea to a working app without vibe coding.\n\nThis Friday we go one layer deeper: DATA.\n\nCompanies don't need more analysts who know how to use dashboarding tools. They need builders who can architect a data pipeline from scratch. Ingestion, transformation, visualization - one workflow, shipped in days.\n\nThat's what we're building live this Friday.\n3 things specifically:\n→ How to spec a data pipeline end to end so Claude Code builds each stage with precision - no patching, no guessing \n→ How to automate data cleaning and transformation with ETL scripts that handle messy real-world data \n→ How to go from a raw CSV or API to a working analytics dashboard using spec-driven prompts and structured output\n\nYou leave with a complete, portfolio-ready data project you can demo in interviews and link from your resume.\n\nThis is Session 2 of the Build and Ship with Claude Code series. Free. 45 minutes. Resources goes to everyone who registers.\n\nThis Friday | Jul 10 | 9 AM PST | 9:30 PM IST \n\nRegister here: https://lnkd.in/dk-k6-QJ\n\nSee you Friday.\n\n#AIPM #AgenticAI #ClaudeCode #DataPipelines",
+      "published_date": "2026-07-09T18:03:09.922Z",
+      "reaction_count": 5,
+      "comment_count": 1,
+      "repost_count": 0,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_aipm-agenticai-claudecode-activity-7481045297071185920-z9Eg"
+    },
+    {
+      "post_text": "Here's what I see with data engineers using Claude Code: they build pipelines without specs.\n\nYou get a dataset. You write ingestion code. Then cleaning code. Then transformation code. Then analytics. Then a dashboard.\n\nEach step built in isolation.\n\nOne change upstream breaks everything downstream.\n\nExample:\n- Cleaning script assumes 5 columns\n- But raw data has 6 columns\n- Pipeline fails silently\n- Dashboard shows wrong numbers\n- Nobody knows for 3 days\n\nThis is fragile.\n\nThe problem: No pipeline specification.\n\nWithout a spec, you're building blind:\n- Each engineer implements cleaning differently\n- Transformations are undocumented\n- Dashboard metrics are inconsistent\n- When data changes, everything breaks\n\nHere's what changes everything:\n\nSpec your entire pipeline upfront.\n\nOne document that defines:\n- Ingestion: What data comes in? What format? How often?\n- Cleaning: How do you handle nulls? Duplicates? Type conversion?\n- Transformation: What joins happen? What aggregations? What's the business logic?\n- Analytics: What metrics matter? How are they calculated?\n- Dashboard: What visualizations? What filters? What refresh rate?\n\nNow when you brief Claude Code, you're not hoping.\n\nSession 1: \"Build ingestion following this spec\" → Robust ingestion with schema validation\nSession 2: \"Build cleaning following this spec\" → Reproducible cleaning logic with error handling\nSession 3: \"Build transformations following this spec\" → Documented business logic\nSession 4: \"Build dashboard following this spec\" → Metrics in sync with data\n\nWhy this matters:\n\nFragile pipelines:\n- Break in production\n- Take hours to debug\n- Nobody understands how they work\n- Can't onboard new engineers\n\nSpec-driven pipelines:\n- Work reliably\n- Document themselves\n- Everyone understands the flow\n- Easy to maintain\n\nStop building fragile pipelines. Start specifying them.\n\nI'm teaching this Friday.\n\nJoin the Lightning Session: Build Data Pipelines with Claude Code\n\nLearn how to spec your entire pipeline end-to-end. See Claude build each stage following the spec. Walk away with templates you can use immediately.\n\nFriday, July 10 | 9 AM PST, 9:30 PM IST\n\nSign up here: https://lnkd.in/dk-k6-QJ\n\nOr join the full Lightning Session Series for more session on Claude:\nhttps://lnkd.in/dqfGgeyg",
+      "published_date": "2026-07-06T21:21:57.286Z",
+      "reaction_count": 3,
+      "comment_count": 1,
+      "repost_count": 1,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_heres-what-i-see-with-data-engineers-using-activity-7480008160464973825-8fwB"
+    },
+    {
+      "post_text": "Our bootcamp alums landed at Meta, Cisco, Salesforce, PermitFlow, and more.\n\nThis cohort, they're coming back to tell you exactly how.\nAlumni Guest Sessions aren't panels or pep talks. They're specific breakdowns from people who cracked the same interviews you're preparing for:\n→ How they navigated MAANG loops (what they built, what got them the offer)\n → How to build AI products that get noticed before the interview\n → The detours and rejections — and the moment it clicked\n\nThis is part of Claude Bootcamp starting July 4. You leave with a production-ready product, a Skills library, and interview stories you can actually walk through.\n\nLast cohort of 2026. No more until 2027.\n\nBook a 1:1: https://lnkd.in/dVNwZFMg \nto see if it's the right fit\n\nCourse details: Claude Bootcamp: Build Production-Ready AI Products & Crack AI PM Interviews - https://lnkd.in/gXPK6NQb\n#AgenticAI #AIPM #Claude",
+      "published_date": "2026-07-02T23:38:34.388Z",
+      "reaction_count": 2,
+      "comment_count": 1,
+      "repost_count": 0,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_11-with-team-mahesh-activity-7478592990140252160-5uqM"
+    },
+    {
+      "post_text": "We're #1 trending on Maven this week, and I have you to thank for that.\n\nTo everyone who enrolled, shared it, and told someone it was worth it - genuinely, thank you. This community made this happen.\n\nEnrollment closes in 3 hours. If you've been thinking about it - this is the last chance.\n\nHere's what you'll build in 6 weeks:\n→ Production-ready AI products using specs, not vibes - PRD.md to deployment\n → A company brain (not a personal one) - powered by Snowflake, Claude Cowork & Claude Code\n → Scale your AI with AI Foundry - evals, observability & red teaming built in\n → A project that demonstrates mastery of the same concepts Anthropic AI certifications test for\n\nAnd when you've built all of that - 6 live mock interviews, guest sessions with Brian Kemler (ex-Google, ex-Meta) and Charu Agrawal (rolestack.ai), and an alumni panel of people who were in your seat 3 months ago, now in AI PM roles at Meta, Salesforce, Cisco and more.\n\nLast Claude Bootcamp of 2026. Starts July 11th. 3 hours left.\nDetails in comment.",
+      "published_date": "2026-07-11T11:28:35.281Z",
+      "reaction_count": 14,
+      "comment_count": 1,
+      "repost_count": 0,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_were-1-trending-on-maven-this-week-and-activity-7481670774160900096-7uDD"
+    },
+    {
+      "post_text": "Vibe coding was the move in early 2025. Now it's table stakes.\n\nI told everyone to learn it. It was essential. Still is. But the expectations shifted.\n\nHere's what I'm seeing on the ground: Companies shipped vibe-coded apps. They looked amazing in demos. Then they hit production. No authentication. No telemetry. No way to track KPIs. Fake data everywhere. The speed of build didn't equal quality of output.\nThe new trend? How do we actually bring the benefits of AI into real production systems?\n\nVibe coding gets you 80% of the way. The last 20% is where most PMs get stuck. That's the gap we're filling.\n\nSpec-based development is the answer. It's not vibe coding vs production. It's vibe coding + design + specs + code that actually ships.\n\nInstead of PRD → Prompt → App, it's PRD → Engineering Design → Spec → Code → Deploy. Each step adds context. Less hallucination. More production-ready output.\n\nI'm building this into a complete system. Data pipelines, cloud code architecture, observability, the whole stack. Starting tomorrow.\n\nIf you're building with Claude Code or v0 and wondering why speed gains aren't materializing, this is for you.\n\nJoin the session. Learn spec-based development. Ship production systems.\nhttps://lnkd.in/dk-k6-QJ",
+      "published_date": "2026-07-09T21:32:40.250Z",
+      "reaction_count": 13,
+      "comment_count": 0,
+      "repost_count": 0,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_vibe-coding-was-the-move-in-early-2025-now-activity-7481098020848324608-lmG0"
+    },
+    {
+      "post_text": "MAHESH YADAV:\nA candidate I spoke with recently could build a solid AI prototype in Claude Code. Clean spec, good product thinking, working demo.\nThey didn't get the offer.\n\nThe hiring manager's feedback: \"They couldn't tell us how it would run in production. No monitoring, no guardrails, no deployment story. It felt like a science project.\"\n\nThis is the gap most candidates don't see until it's already too late.\nPrototyping is table stakes in 2026. What separates the top candidates is knowing how to take what you built and deploy it on the infrastructure enterprises actually use - with observability, safety checks, and a deployment story you can defend in the room.\n\nAzure AI Foundry is where enterprise AI runs. Claude Code is how you build fast. Knowing how to wire them together puts you in a category most candidates can't reach.\n\nThis Friday I'm running a free 45-minute session on exactly that:\n→ How to connect Claude Code to Azure AI Foundry end to end \n→ How to add guardrails, monitoring, and evals so your agent is production-grade \n→ How to walk away with a working agent on Azure you can demo in any interview\n\nDeploy AI Apps Using Azure AI Foundry & Claude Code Friday, July 31 | 9 AM IST | 9:30 PM IST | Free\nhttps://lnkd.in/dYK-y2c3\n\nHow many of you have a deployment story ready for your next interview, or are you still at the prototype stage?",
+      "published_date": "2026-07-28T16:50:17.878Z",
+      "reaction_count": 12,
+      "comment_count": 1,
+      "repost_count": 1,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_mahesh-yadav-a-candidate-i-spoke-with-recently-activity-7487912328836087809-Xjk5"
+    }
+  ],
+  "fetch_meta": {
+    "fetched_at": "2026-08-02",
+    "source": "Apify actor harvestapi/linkedin-company-posts, run via Composio",
+    "actor_run_note": "Run completed successfully (10 posts returned). Follower count was included as text on each post's author object rather than as a separate channel-stats field."
+  }
+}

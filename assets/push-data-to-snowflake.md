@@ -1,5 +1,4 @@
 
-
 # Skill: push-data-to-snowflake
 
 Push all Second Brain project data into Snowflake via the Composio MCP Server. Idempotent — safe to run multiple times. Maintains persistent context so each run reuses existing resources and only processes new files.

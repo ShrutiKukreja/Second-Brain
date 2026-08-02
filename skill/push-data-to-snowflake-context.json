@@ -1,0 +1,57 @@
+{
+  "database": "SECOND_BRAIN",
+  "schema": "PUBLIC",
+  "tables": {
+    "YOUTUBE_CHANNELS": {
+      "columns": ["channel_id VARCHAR", "channel_title VARCHAR", "subscriber_count INTEGER", "video_count INTEGER", "view_count INTEGER", "source_file VARCHAR", "pushed_at TIMESTAMP"],
+      "description": "YouTube channel snapshot rows (one per fetch), for the MaheshAIPMCommunity / Agentic AI Institute channel",
+      "source_types": ["raw_json"]
+    },
+    "YOUTUBE_VIDEOS": {
+      "columns": ["video_id VARCHAR", "video_title VARCHAR", "channel_id VARCHAR", "published_date TIMESTAMP", "view_count INTEGER", "like_count INTEGER", "source_file VARCHAR", "pushed_at TIMESTAMP"],
+      "description": "YouTube video rows fetched per channel snapshot",
+      "source_types": ["raw_json"]
+    },
+    "LINKEDIN_COMPANIES": {
+      "columns": ["company_name VARCHAR", "linkedin_url VARCHAR", "follower_count INTEGER", "source_file VARCHAR", "pushed_at TIMESTAMP"],
+      "description": "LinkedIn company page snapshot rows",
+      "source_types": ["raw_json"]
+    },
+    "LINKEDIN_POSTS": {
+      "columns": ["post_url VARCHAR", "post_text TEXT", "published_date TIMESTAMP", "reaction_count INTEGER", "comment_count INTEGER", "repost_count INTEGER", "source_file VARCHAR", "pushed_at TIMESTAMP"],
+      "description": "LinkedIn company page posts",
+      "source_types": ["raw_json"]
+    },
+    "ASSETS_DOCUMENTS": {
+      "columns": ["document_id VARCHAR", "file_name VARCHAR", "title VARCHAR", "content TEXT", "source_path VARCHAR", "pushed_at TIMESTAMP"],
+      "description": "Skill-definition markdown docs from assets/",
+      "source_types": ["assets_markdown"]
+    },
+    "WIKI_DOCUMENTS": {
+      "columns": ["document_id VARCHAR", "folder VARCHAR", "file_name VARCHAR", "title VARCHAR", "content TEXT", "source_path VARCHAR", "pushed_at TIMESTAMP"],
+      "description": "Wiki markdown pages (campaigns, courses) from wiki/",
+      "source_types": ["wiki_markdown"]
+    }
+  },
+  "file_mappings": {
+    "raw/MaheshAIPMCommunity.json": ["YOUTUBE_CHANNELS", "YOUTUBE_VIDEOS"],
+    "raw/youtube/daily/2026-08-02.json": ["YOUTUBE_CHANNELS", "YOUTUBE_VIDEOS"],
+    "raw/LinkedIn-MaheshAIPM.json": ["LINKEDIN_COMPANIES", "LINKEDIN_POSTS"],
+    "raw/linkedin/daily/2026-08-02.json": ["LINKEDIN_COMPANIES", "LINKEDIN_POSTS"],
+    "assets/build-wbr.md": ["ASSETS_DOCUMENTS"],
+    "assets/build-wiki.md": ["ASSETS_DOCUMENTS"],
+    "assets/push-data-to-snowflake.md": ["ASSETS_DOCUMENTS"],
+    "wiki/campaigns/README.md": ["WIKI_DOCUMENTS"],
+    "wiki/campaigns/linkedin-ads/README.md": ["WIKI_DOCUMENTS"],
+    "wiki/campaigns/linkedin-campaign/README.md": ["WIKI_DOCUMENTS"],
+    "wiki/campaigns/youtube/README.md": ["WIKI_DOCUMENTS"],
+    "wiki/courses/course-bootcamp.md": ["WIKI_DOCUMENTS"],
+    "wiki/courses/course-genaipm.md": ["WIKI_DOCUMENTS"]
+  },
+  "archived_files": [
+    "raw/MaheshAIPMCommunity.json",
+    "raw/LinkedIn-MaheshAIPM.json",
+    "raw/youtube/daily/2026-08-02.json",
+    "raw/linkedin/daily/2026-08-02.json"
+  ]
+}
