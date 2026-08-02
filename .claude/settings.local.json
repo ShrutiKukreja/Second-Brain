@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__mcp-registry__search_mcp_registry",
+      "mcp__Apify__fetch-actor-details",
+      "mcp__Apify__call-actor",
+      "mcp__Apify__get-dataset-items",
+      "WebSearch",
+      "WebFetch(domain:docs.composio.dev)",
+      "WebFetch(domain:composio.dev)",
+      "PowerShell(Select-String *)",
+      "mcp__composio__COMPOSIO_REMOTE_WORKBENCH",
+      "mcp__composio__COMPOSIO_SEARCH_TOOLS",
+      "mcp__composio__COMPOSIO_MANAGE_CONNECTIONS",
+      "mcp__composio__COMPOSIO_MULTI_EXECUTE_TOOL",
+      "mcp__composio__COMPOSIO_WAIT_FOR_CONNECTIONS",
+      "mcp__composio__COMPOSIO_GET_TOOL_SCHEMAS",
+      "mcp__composio__COMPOSIO_REMOTE_BASH_TOOL",
+      "Write",
+      "Edit",
+      "Bash"
+    ]
+  }
+}
