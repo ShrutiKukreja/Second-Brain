@@ -1,0 +1,27 @@
+{
+  "company": {
+    "company_name": "Agentic AI Institute",
+    "follower_count": 8455
+  },
+  "posts": [
+    {
+      "post_text": "I have seen this pattern before with mobile, cloud, and SaaS. During every major technology shift, industry debates often center around macro disruption, while the real window to build sustainable value quietly opens and closes.\n\nRecently, S&P Global published a comprehensive report analyzing AI adoption and labor dynamics. The data provides a grounded look at where enterprise AI actually stands today. \n\nHere are a few key takeaways from the numbers: \n• Productivity gains remain the primary driver: 59% of enterprises prioritize employee productivity, while process efficiency stands at 64%. \n• Headcount reduction is rarely the main goal: Only 24% of organizations cite workforce reduction as a primary objective. \n• The net employment impact is subtle: The global forecast shows a modest net impact of -2 percentage points for the coming year, driven more by changing hiring velocity and task reallocation than outright displacement. \n\nThe report also reveals a clear split based on organization size: \n• Large Enterprises (-13 net impact): Larger organizations are actively restructuring around formal AI strategies and dedicated teams. \n• Small & Medium Businesses (+2 to +3 net impact): Smaller teams are using AI tools as leverage to expand their output and capacity without needing massive headcount additions. \n\nHowever, the metric that every AI engineer and Product Manager should pay closest attention to is this:\n\nOnly 37% of AI initiatives launched in the past year are currently live and delivering value. Furthermore, only 46% are on track to achieve positive ROI within 12 months. \n\nMany projects encounter deployment bottlenecks—ranging from data privacy and accuracy concerns to acute technical skill shortages in AI development, software engineering, and governance.\n\nThis gap between capital investment and deployed value is currently the single largest opportunity in technology. Organizations do not just need more models or experiments; they need builders and leaders who can systematically design, evaluate, and ship production-grade AI systems that solve real business problems. \n\nThe opportunity to close this gap is open right now.\n\nAre you currently focused on moving AI projects into production and driving ROI, or are you still working through early-stage evaluation? I would love to read your perspective in the comments.\n\n(Link to full S&P Global report in comments)",
+      "published_date": "2026-07-31T22:59:43.656Z",
+      "reaction_count": 2,
+      "comment_count": 1,
+      "repost_count": 0,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_i-have-seen-this-pattern-before-with-mobile-activity-7489092462444032000-N1el"
+    },
+    {
+      "post_text": "MAHESH YADAV:\nA candidate I spoke with recently could build a solid AI prototype in Claude Code. Clean spec, good product thinking, working demo.\nThey didn't get the offer.\n\nThe hiring manager's feedback: \"They couldn't tell us how it would run in production. No monitoring, no guardrails, no deployment story. It felt like a science project.\"\n\nThis is the gap most candidates don't see until it's already too late.\nPrototyping is table stakes in 2026. What separates the top candidates is knowing how to take what you built and deploy it on the infrastructure enterprises actually use - with observability, safety checks, and a deployment story you can defend in the room.\n\nAzure AI Foundry is where enterprise AI runs. Claude Code is how you build fast. Knowing how to wire them together puts you in a category most candidates can't reach.\n\nThis Friday I'm running a free 45-minute session on exactly that:\n→ How to connect Claude Code to Azure AI Foundry end to end \n→ How to add guardrails, monitoring, and evals so your agent is production-grade \n→ How to walk away with a working agent on Azure you can demo in any interview\n\nDeploy AI Apps Using Azure AI Foundry & Claude Code Friday, July 31 | 9 AM IST | 9:30 PM IST | Free\nhttps://lnkd.in/dYK-y2c3\n\nHow many of you have a deployment story ready for your next interview, or are you still at the prototype stage?",
+      "published_date": "2026-07-28T16:50:17.878Z",
+      "reaction_count": 12,
+      "comment_count": 1,
+      "repost_count": 1,
+      "post_url": "https://www.linkedin.com/posts/mahesh-ai-pm-community_mahesh-yadav-a-candidate-i-spoke-with-recently-activity-7487912328836087809-Xjk5"
+    }
+  ],
+  "fetch_meta": {
+    "fetched_at": "2026-08-02T01:53:35Z"
+  }
+}
