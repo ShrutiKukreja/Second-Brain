@@ -32,7 +32,21 @@ The secondary Maven course from [[agentic-ai-institute]], taught by [[mahesh-yad
 
 ## What's Included
 
-14 live sessions, hands-on labs (personal AI assistant, full-stack app, job search automation, data pipelines, Azure AI Foundry deployment), guest sessions (Charu Agrawal of RoleStack.ai, Brian Kemler ex-Meta/Google), 6 live mock interviews, 21-day daily AI PM question track, 3 months access to Mahesh's miniPM agent and skills.md toolkit.
+14 live sessions, hands-on labs (personal AI assistant, full-stack app, job search automation, data pipelines, Azure AI Foundry deployment), guest sessions (Charu Agarwal of RoleStack.ai, Brian Kemler ex-Meta/Google), 6 live mock interviews, 21-day daily AI PM question track, weekly mentor-led lab sessions, alumni career AMA sessions, lifetime access to all materials, 3 months access to Mahesh's miniPM agent and skills.md toolkit.
+
+## Bonuses
+
+- Rolestack.ai subscription (automates job applications)
+- AI role interview prep material + mock interview support
+- 6 months free Mahesh's Substack Premium
+- Option to bundle with the [[agentic-ai-pm-certification]] course
+
+## Outcomes
+
+- Production-ready portfolio project
+- Refined hiring narrative and CV
+- Interview readiness for top-tier AI PM roles
+- Past alumni have landed AI PM roles (e.g. at Turbo)
 
 ## Marketing Signals (LinkedIn Posts)
 

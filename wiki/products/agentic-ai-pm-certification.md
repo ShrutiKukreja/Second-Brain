@@ -33,7 +33,24 @@ The flagship course from [[agentic-ai-institute]], taught by [[mahesh-yadav]] on
 
 ## What's Included
 
-Live sessions, lifetime access to recordings, peer community with lifetime post-cohort Fridays, 1-on-1 mentorship, dedicated engineer support, ~$1,380 in bonus platform credits, employer reimbursement templates, Maven satisfaction guarantee.
+Live sessions, lifetime access to recordings, peer community with lifetime post-cohort Fridays, 1-on-1 mentorship, dedicated engineer support, ~$1,380 in bonus platform credits, employer reimbursement templates, Maven satisfaction guarantee (full refund up to 7 days before start; partial refund through Week 3).
+
+## Team & Enterprise
+
+20%+ team discount for 2+ teammates in the same cohort. A private cohort option is also available — custom schedule and curriculum for organizations.
+
+## Key Differentiators
+
+- Only course focused exclusively on agentic AI PM — multi-agent architectures, evaluation, deployment, and scale
+- Built-in career launch structure, not just content
+- Weekly free community sessions running 3+ years post-cohort
+- 5 hands-on projects owned by the student, usable in interviews
+
+## Testimonials
+
+- "Not a vanilla course — a full deep dive for anyone wanting day-one readiness in agentic product management."
+- "Insight equivalent to launching ten different products with ten different teams."
+- Mahesh's cross-layer AI experience at major tech companies is credited for breaking alumni into AI roles.
 
 ## Marketing Performance
 
