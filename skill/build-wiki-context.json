@@ -1,0 +1,68 @@
+{
+  "last_run": "2026-08-05",
+  "table_watermarks": {
+    "YOUTUBE_CHANNELS": { "last_fetched_at": "2026-08-02T00:48:32.073000", "row_count": 2 },
+    "YOUTUBE_VIDEOS": { "last_fetched_at": "2026-08-02T00:49:28.230000", "row_count": 17 },
+    "LINKEDIN_COMPANIES": { "last_fetched_at": "2026-08-02T00:50:20.238000", "row_count": 2 },
+    "LINKEDIN_POSTS": { "last_fetched_at": "2026-08-02T00:50:48.683000", "row_count": 12 },
+    "ASSETS_DOCUMENTS": { "last_fetched_at": "2026-08-02T00:53:58.606000", "row_count": 3 },
+    "WIKI_DOCUMENTS": { "last_fetched_at": "2026-08-02T00:54:46.216000", "row_count": 6 }
+  },
+  "pages": {
+    "wiki/people/mahesh-yadav.md": {
+      "last_compiled": "2026-08-05",
+      "source_row_ids": ["UCPnDl-FpDXdPWKVRRV5V7og", "Fbq7wBVnKNY", "Agentic AI Institute", "courses/course-genaipm.md", "courses/course-bootcamp.md"]
+    },
+    "wiki/companies/agentic-ai-institute.md": {
+      "last_compiled": "2026-08-05",
+      "source_row_ids": ["UCPnDl-FpDXdPWKVRRV5V7og", "Agentic AI Institute"]
+    },
+    "wiki/content/youtube-agentic-ai-institute.md": {
+      "last_compiled": "2026-08-05",
+      "source_row_ids": ["UCPnDl-FpDXdPWKVRRV5V7og", "ojDvD5kYKzs", "DcA1dCQA6Yk", "EB8fAldxmaQ", "daxme3vLlEY", "ckpoezyIFYk", "w_pAU0jur_4", "uGCMX-1RXS8", "rxmdtKyEJFs", "uEYoD0IXIcQ", "Fbq7wBVnKNY", "rwjqky-Adrk", "9cjswihC8uE", "gewz2ejH5A8", "TFvx5JIfaPw", "ItOFgbYJSsk"]
+    },
+    "wiki/content/linkedin-agentic-ai-institute.md": {
+      "last_compiled": "2026-08-05",
+      "source_row_ids": ["Agentic AI Institute", "post_7489092462444032000", "post_7478088920455360512", "post_7482779311020830720", "post_7477817342522155008", "post_7481045297071185920", "post_7480008160464973825", "post_7478592990140252160", "post_7481670774160900096", "post_7481098020848324608", "post_7487912328836087809"]
+    },
+    "wiki/products/agentic-ai-pm-certification.md": {
+      "last_compiled": "2026-08-05",
+      "source_row_ids": ["courses/course-genaipm.md", "campaigns/README.md", "campaigns/linkedin-ads/README.md", "campaigns/linkedin-campaign/README.md", "campaigns/youtube/README.md"]
+    },
+    "wiki/products/claude-bootcamp.md": {
+      "last_compiled": "2026-08-05",
+      "source_row_ids": ["courses/course-bootcamp.md", "campaigns/README.md", "campaigns/linkedin-ads/README.md", "campaigns/linkedin-campaign/README.md"]
+    },
+    "wiki/topics/agentic-ai.md": {
+      "last_compiled": "2026-08-05",
+      "source_row_ids": ["w_pAU0jur_4", "daxme3vLlEY", "TFvx5JIfaPw"]
+    },
+    "wiki/topics/spec-based-development.md": {
+      "last_compiled": "2026-08-05",
+      "source_row_ids": ["post_7481098020848324608", "post_7480008160464973825"]
+    },
+    "wiki/topics/claude-code.md": {
+      "last_compiled": "2026-08-05",
+      "source_row_ids": ["ItOFgbYJSsk", "post_7487912328836087809", "courses/course-bootcamp.md"]
+    },
+    "wiki/topics/ai-pm-interview-prep.md": {
+      "last_compiled": "2026-08-05",
+      "source_row_ids": ["EB8fAldxmaQ", "DcA1dCQA6Yk", "courses/course-bootcamp.md"]
+    }
+  },
+  "entity_map": {
+    "Mahesh Yadav": "wiki/people/mahesh-yadav.md",
+    "Agentic AI Institute": "wiki/companies/agentic-ai-institute.md",
+    "mahesh-ai-pm-community": "wiki/companies/agentic-ai-institute.md",
+    "YouTube - Agentic AI Institute": "wiki/content/youtube-agentic-ai-institute.md",
+    "LinkedIn - Agentic AI Institute": "wiki/content/linkedin-agentic-ai-institute.md",
+    "Agentic AI PM Certification": "wiki/products/agentic-ai-pm-certification.md",
+    "GenAI PM": "wiki/products/agentic-ai-pm-certification.md",
+    "Claude Bootcamp": "wiki/products/claude-bootcamp.md",
+    "AI PM Interview Prep Bootcamp": "wiki/products/claude-bootcamp.md",
+    "Agentic AI": "wiki/topics/agentic-ai.md",
+    "Spec-Based Development": "wiki/topics/spec-based-development.md",
+    "Claude Code": "wiki/topics/claude-code.md",
+    "AI PM Interview Prep": "wiki/topics/ai-pm-interview-prep.md"
+  }
+}

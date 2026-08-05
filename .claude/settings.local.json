@@ -22,7 +22,10 @@
       "WebFetch(domain:apify.com)",
       "Skill(schedule)",
       "Skill(schedule:*)",
-      "mcp__mcp-registry__list_connectors"
+      "mcp__mcp-registry__list_connectors",
+      "mcp__67bf3c0c-bf24-498a-b936-7fd4d46ec35d__COMPOSIO_SEARCH_TOOLS",
+      "mcp__67bf3c0c-bf24-498a-b936-7fd4d46ec35d__COMPOSIO_MULTI_EXECUTE_TOOL",
+      "mcp__67bf3c0c-bf24-498a-b936-7fd4d46ec35d__COMPOSIO_REMOTE_BASH_TOOL"
     ]
   }
 }
