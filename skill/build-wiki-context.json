@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-07",
+  "last_run": "2026-08-09",
   "table_watermarks": {
     "YOUTUBE_CHANNELS": { "last_fetched_at": "2026-08-02T00:48:32.073000", "row_count": 2 },
     "YOUTUBE_VIDEOS": { "last_fetched_at": "2026-08-02T00:49:28.230000", "row_count": 17 },
